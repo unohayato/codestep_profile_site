@@ -56,29 +56,3 @@ li {
 
 
 
-#header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-}
-
-#header ul {
-  display: flex;
-}
-
-#header li {
-  margin-left: 30px;
-}
-
-#header li a{
-  color: #383e45;
-}
-
-#header li a:hover {
-  opacity: 0.7;
-}
-
-
-
-
