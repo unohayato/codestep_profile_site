@@ -146,3 +146,8 @@ h1タグの上下の余白が消えるため、ロゴ画像の高さと揃う
   
 }
 
+#footer {
+  text-align: center;
+  font-size: 0.5rem;
+  padding: 10px 0;
+}
