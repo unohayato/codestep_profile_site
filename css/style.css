@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 0;
+}
+
+#header img {
+  width: 125px;
+  margin-left: 400px;
+}
+
+#header ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 450px;
+  list-style: none;
+}
+
+#header li {
+  margin-left: 30px;
+  
+}
+
+#header li a{
+  color: gray;
+  text-decoration: none;
+
+
+}
+
+#header li  :hover {
+  opacity: 0.7;
+}
